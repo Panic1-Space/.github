@@ -1,4 +1,29 @@
-## Hi there 👋
+# Panic1 Space
+
+Welcome — this is the Panic1 Space organization.
+
+Website: https://panic1.space
+
+About
+- Owner: @panic1
+- Purpose: home lab projects, small tools, experiments, and packages.
+
+Suggested repositories
+- `panic1-space.github.io` — website / documentation (GitHub Pages)
+- `panic1-space` — organization profile (this repo; contains README shown on org page)
+- `.github` — issue/PR templates and workflows (org-wide defaults)
+- `packages/*` — npm / container / package registries
+- `projects/*` — demos, labs, and experimental repos
+
+Security & contribution
+- License: MIT (or choose your preferred license)
+- Recommended files (place in `.github` or top-level repos): CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md
+- Recommended protections: enforce 2FA for org members, enable branch protection on main branches, enable Dependabot & vulnerability alerts.
+
+Contact
+- Owner: @panic1
+- Domain: https://panic1.space
+
 
 <!--
 
